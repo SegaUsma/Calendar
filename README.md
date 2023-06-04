@@ -1,2 +1,2 @@
 # Calendar
-This is a python calendar project
+*This is a python calendar project*
