@@ -1,2 +1,2 @@
 # Calendar
-*This is a python calendar project*
+*Welcome to the Calendar App created in PyQt 6!*
