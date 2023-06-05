@@ -1,3 +1,1 @@
-l = ['a','b','c','fa']
-# Hello
-cvgnbfcg
+print('hello')
