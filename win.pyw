@@ -10,6 +10,3 @@ vbox.addWidget(label)
 win.setLayout(vbox)
 win.show()
 sys.exit(app.exec())
-
-
-# Say HEI!!!
