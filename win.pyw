@@ -1,14 +1,1 @@
-# ToDo
-print('App')
-
-#cbtyjhfjmfghyj
-#dxfbdfbdgfbfgn
-#######
-#
-#
-#
-#
-#
-#
-#
-#
+# Start here!!!
